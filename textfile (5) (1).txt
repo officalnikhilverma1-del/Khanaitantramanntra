@@ -1,0 +1,1519 @@
+# 🔱 TANTRA MANTRA — VISUAL SCRIPT v3
+## Episode 01: "Meri Gaon Ki Chudail — Sachi Ghatna"
+## FINAL STORY STRUCTURE
+
+---
+
+> 📌 NEW STORY SUMMARY:
+> — Gaon mein musibat aayi (drought/disease/koi aafat)
+> — Gaon walon ne Meera par ilzaam lagaya — daayan hai
+> — Poore gaon ne milkar Meera ko peepal ped se baandh ke jala diya
+> — Meera ne marte waqt shaap diya — har mard jo is ped ke paas aayega possess hoga
+> — Possessed mard 7 din mein ped ke paas jaata aur khud ko aag laga leta
+> — Gaon walon ne ped ki taraf jaana band kar diya
+> — Kai saalon baad deaths hoti rahi gaon mein — curse active
+> — Bahut saalon baad Rajan — ordinary village boy — ped ke paas chala gaya
+> — Possess ho gaya — 7 din ka countdown shuru
+> — Ma Panditji ke paas gayi
+> — Panditji ne poori kahani bataayi + solution diya
+> — Rajan ne maafi maangi — Meera free — Rajan bacha
+
+---
+---
+
+# 🎬 SCENE 01 — CHANNEL INTRO + HOOK
+## ⏱️ 00:00 – 02:00
+## [SAME AS BEFORE — NO CHANGE]
+
+*(Clips 01–09 same as previous visual script)*
+
+---
+---
+
+# 🎬 SCENE 02 — RAJAN AUR GAON
+## ⏱️ 02:00 – 03:30
+
+---
+
+### CLIP 10 | ⏱️ 02:00–02:10
+**Title card**
+
+🎙️ NARRATOR:
+> "Baat hai bahut saalon pehle ki. Rajasthan ke ek chhote se gaon ki... Kaaldaas Ka Tola."
+
+🖼️ IMAGE PROMPT:
+```
+Pure black background.
+Blood red Hindi text: "Bahut Saal Pehle"
+Below: "Kaaldaas Ka Tola, Rajasthan"
+Aged cracked paper texture behind — barely visible.
+Fog drifting from bottom slowly. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Black screen. "Bahut Saal Pehle" fades in blood red.
+"Kaaldaas Ka Tola" appears below slowly.
+Fog creeps from bottom. Blood drop falls from text.
+Holds. Then fades to black. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+From the black — village at twilight materializes.
+Like a memory surfacing. Sepia tone.
+Color arrives slowly. We are in the past.
+```
+
+---
+
+### CLIP 11 | ⏱️ 02:10–02:22
+**Rajan — ordinary village boy**
+
+🎙️ NARRATOR:
+> "Wahan ek ladka rehta tha... Rajan. Baais saal ka. Seedha saada. Ek aam gaon ka aam ladka. Subah khet jaata. Shaam wapas aata. Koi badi baat nahi. Bas ek simple zindagi."
+
+🖼️ IMAGE PROMPT:
+```
+[RAJAN CHARACTER — age 22]
+Wide shot — Rajan working in dry wheat fields at golden hour.
+Bent forward harvesting wheat by hand.
+Off-white kurta — worn, slightly dirty from field work.
+Dark dhoti. Worn sandals.
+Simple. Ordinary. Average village boy.
+No wealth markers. No special status.
+Just a young man doing his daily work.
+Vast field. Village mud houses in background.
+Warm golden light. 2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Rajan working in wheat field at golden hour.
+He slowly straightens up — presses hand to back.
+Wipes sweat from forehead. Looks at the horizon.
+Completely ordinary. Completely unremarkable.
+Just a village boy. Just a life.
+Camera wide — he is small in the vast field.
+Nothing special about him. That is the point.
+This could be anyone. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Wind moves through wheat field left to right.
+Rajan continues his work.
+In the background over his shoulder —
+the peepal tree visible at village edge.
+He doesn't notice it. He never looks that way.
+Everyone knows not to look that way.
+```
+
+---
+
+### CLIP 12 | ⏱️ 02:22–02:34
+**The peepal tree — abandoned — marked**
+
+🎙️ NARRATOR:
+> "Par is gaon mein ek jagah thi... jahan koi nahi jaata tha. Gaon ke bahar... ek bahut purana peepal ka ped. Us ped ke paas jaana... matlab apni maut ko bulana."
+
+🖼️ IMAGE PROMPT:
+```
+Ancient massive peepal tree. Daytime but deeply ominous.
+Enormous twisted dark grey trunk.
+Hundreds of hanging aerial roots.
+Dark canopy blocking sunlight underneath.
+Around the tree base: a rope barrier — old, rotting.
+Warning signs on sticks: painted skull or red X marks.
+Cracked dry earth. Dead offerings at base.
+No one near it. A wide empty circle around it.
+The village visible in background — life happening.
+The tree: isolated. Avoided. Feared.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Camera approaches the peepal tree slowly.
+Stops at the rope barrier — doesn't cross.
+The rope old and fraying — a boundary everyone respects.
+Warning marks on sticks — faded but present.
+No one has crossed this barrier in years.
+Beyond it: the dark shadow of the tree.
+Camera holds at the barrier. Looking in.
+Not crossing. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Camera tilts up slowly — following the enormous trunk
+upward to the vast dark canopy above.
+The canopy so thick it blocks the sky.
+A bird flies near — veers away sharply.
+Even birds avoid it.
+Camera comes back down to the rope barrier.
+The warning marks. The emptiness beyond.
+```
+
+---
+
+### CLIP 13 | ⏱️ 02:34–02:46
+**Old villagers warn — the history in their faces**
+
+🎙️ NARRATOR:
+> "Gaon ke bade kehte the... us ped ke paas mat jaana. Jo bhi mard gaya... woh 7 din mein wapas wahan pahuncha... aur khud ko aag laga li. Koi nahi bacha. Kabhi nahi."
+
+🖼️ IMAGE PROMPT:
+```
+Night. Village chaupaal — open area.
+Group of old villagers — 4-5 elders — sitting in oil lamp light.
+Their faces: serious, carrying old fear and old guilt.
+One old man speaking — pointing toward peepal tree direction.
+Other elders nodding gravely. Haunted expressions.
+Young men in background listening — some skeptical.
+The weight of old knowledge being passed down.
+2D Khooni Monday style. Warm lamp light. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Old man speaking to the group — lamp between them.
+His pointing finger toward peepal tree direction.
+Other elders' faces: they know this is true.
+They have seen it. They were there.
+Young men listening — some with doubt — some with fear.
+Camera on the old man's face: he is not making this up.
+He is remembering. Painfully.
+8 seconds.
+```
+
+🔁 EXTEND:
+```
+One young man asks something — curiosity.
+Old man's face: hardens. Shakes his head slowly.
+"Mat poochho. Bas mat jaana."
+Some things should not be explained.
+Some warnings should just be obeyed.
+He knows this. He knows why.
+He was there when it started.
+```
+
+---
+
+### CLIP 14 | ⏱️ 02:46–02:58
+**Deaths have happened — gaon ki khamoshi**
+
+🎙️ NARRATOR:
+> "Saalon se yeh silsila chal raha tha. Kabhi kabhi koi bhool jaata. Ya samajhta tha ki woh kahaniyaan hain. Aur phir... 7 din baad... ped ke paas laash milti."
+
+🖼️ IMAGE PROMPT:
+```
+Montage feeling — three small panels in one image:
+Panel 1: An empty charpoy — someone gone.
+Panel 2: Grieving family — woman crying.
+Panel 3: Gaon mein ek kabar — fresh mitti.
+All three in dark sepia-grey tones.
+Death has visited this village before.
+More than once. This is not new.
+This is the pattern.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Three-panel slow fade.
+Each panel holds for 2-3 seconds.
+Empty charpoy — someone who was here.
+Grieving family — someone who was lost.
+Fresh grave — the end of the pattern.
+The deaths are real. The pattern is real.
+Camera holds on the three images together.
+This has happened before. It will happen again.
+Unless something changes. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+All three panels fade to single image:
+The peepal tree at night — distant.
+The deaths all point back here.
+Always back here.
+The tree waits. Patiently.
+It has been waiting for a long time.
+```
+
+---
+---
+
+# 🎬 SCENE 03 — MEERA KI KAHANI — THE REAL BEGINNING
+## ⏱️ 03:30 – 05:30
+## [FLASHBACK — the origin of everything]
+
+---
+
+### CLIP 15 | ⏱️ 03:30–03:42
+**Flashback — gaon mein aafat aayi**
+
+🎙️ NARRATOR:
+> "Yeh sab shuru hua bahut saalon pehle. Us waqt is gaon mein ek badi musibat aayi thi. Fasal nahi hui. Paani sukh gaya. Bachche beemar padne lage. Gaon walon ko koi kaaran chahiye tha."
+
+🖼️ IMAGE PROMPT:
+```
+FLASHBACK — sepia-warm old tones.
+Same village — older, simpler version.
+Dry cracked fields — no crop. Drought.
+Village well — nearly empty. Villagers looking in.
+Faces: worried, hungry, desperate.
+A few sick children visible in background.
+The desperation of people who need someone to blame.
+2D Khooni Monday style — sepia warm. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Flashback village in drought.
+Dry cracked earth. Empty fields.
+Villagers at dry well — looking in — nothing.
+A sick child being carried by mother.
+Worried faces everywhere.
+Fear and desperation in every movement.
+These are not cruel people yet.
+They are desperate people. That is worse.
+Desperate people do terrible things. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Villagers gathered — talking urgently.
+Pointing at different things. Arguing.
+No solutions. No rain. No hope.
+Someone gestures toward a house on the edge.
+A few heads turn that way.
+The beginning of a terrible decision.
+```
+
+---
+
+### CLIP 16 | ⏱️ 03:42–03:55
+**Meera — the girl they chose to blame**
+
+🎙️ NARRATOR:
+> "Gaon mein ek akeli ladki rehti thi. Meera. Woh thodi alag thi. Akele rehti thi. Jadibootiyan ikaththi karti thi. Kisi se kuch nahi maangti thi. Isliye... gaon walon ne use chunna bahut aasaan tha."
+
+🖼️ IMAGE PROMPT:
+```
+FLASHBACK — sepia tones.
+MEERA — age 20-22. Simple clean white saree — whole.
+Kind open face. Warm dark eyes.
+She is gathering herbs/plants near forest edge.
+Alone — by choice. She prefers solitude.
+Her small hut visible in background — away from main village.
+She is different — not evil different.
+Just... apart. That made her a target.
+2D Khooni Monday style — sepia warm. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Meera gathering herbs near forest edge.
+Alone — content — focused on her work.
+She knows plants. She knows remedies.
+She tried to help the sick children — with her herbs.
+That was misunderstood.
+Camera watches her from distance — respectfully.
+She doesn't know someone is watching her.
+Someone has already made a decision. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Meera looks up. Sees someone watching from village.
+She holds their gaze briefly.
+Then looks back at her herbs. Goes back to work.
+She is used to being watched with suspicion.
+She has learned to ignore it.
+She doesn't know this time is different.
+This time the watching has purpose.
+```
+
+---
+
+### CLIP 17 | ⏱️ 03:55–04:10
+**Gaon walon ka ilzaam — daayan**
+
+🎙️ NARRATOR:
+> "Ek raat gaon ke sab log jama hue. Kisine keh diya... yeh Meera hi daayan hai. Isi ki wajah se fasal nahi hui. Isi ki wajah se bachche beemar hain. Koi saboot nahi tha. Par darr aur bhookh mein log kuch bhi maan lete hain."
+
+🖼️ IMAGE PROMPT:
+```
+FLASHBACK — night — torchlight.
+Village chaupaal. Large crowd gathered.
+Meera stands in center — alone — facing the crowd.
+Crowd: angry, fearful, pointing.
+One man speaks — accusing — pointing at Meera.
+Others nodding — fear making them cruel.
+Meera's face: shock. Disbelief. Then understanding.
+No one stands with her. Not one person.
+She is completely alone.
+2D Khooni Monday style — torchlight drama. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Wide shot — chaupaal. Crowd in torchlight.
+The accusation spreading through the crowd.
+One voice. Then two. Then many.
+Meera stands in center. She does not run.
+Her eyes go from face to face — finding no ally.
+Some faces: uncertain — they don't believe — but stay silent.
+The silence of the uncertain is the same as cruelty.
+Camera on Meera: alone in the center. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Camera on Meera's face — close-up.
+She sees what this is.
+She tries to speak — her lips move —
+but the crowd is louder.
+Her voice swallowed by the noise of fear.
+Her eyes find one face she trusted —
+that face looks away. Cannot meet her eyes.
+She understands. No one will save her.
+```
+
+---
+
+### CLIP 18 | ⏱️ 04:10–04:25 ⚠️ MOST TRAGIC
+**Poore gaon ne milkar Meera ko jala diya**
+
+🎙️ NARRATOR:
+> "Poore gaon ne milkar... usi peepal ke ped ke neeche... Meera ko baandha. Aur aag laga di. Koi akela jimmedaar nahi tha. Poora gaon zimmedaar tha. Yeh sabse badi aur sabse buri baat thi."
+
+🖼️ IMAGE PROMPT:
+```
+FLASHBACK — night. Most devastating image.
+Ancient peepal tree — younger but large.
+Meera tied to the tree base — white saree.
+NOT one person with a torch.
+MANY torches. Many hands.
+The entire village surrounding the tree.
+Men, women, elders — all present.
+All complicit. All holding something.
+Fire catching at base from multiple points.
+This was not one man's cruelty.
+This was collective fear becoming collective murder.
+Orange fire vs cold dark sky. Most tragic image.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Wide shot — entire village surrounding the peepal tree.
+Not one villain. Many ordinary people.
+Collective hands — collective crime.
+Meera tied at center — fire beginning at multiple points.
+She does not scream. Does not beg.
+She looks at the crowd — all of them.
+At the faces of people she grew up with.
+People she brought herbs to when they were sick.
+Her eyes: defiant. Righteous. Not afraid. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Camera slowly circles the terrible scene.
+Face after face in the crowd.
+Some crying — but not stopping it.
+Some looking away — but not stopping it.
+Some watching with grim satisfaction — believing the lie.
+The fire grows. The circle of complicity is complete.
+Every person here will carry this.
+And so will their children. And their children's children.
+```
+
+---
+
+### CLIP 19 | ⏱️ 04:25–04:40
+**Meera's curse — specific and terrible**
+
+🎙️ NARRATOR:
+> "Marte waqt Meera ne shaap diya. Us gaon ke har mard ko. Jo bhi mard is ped ke paas aayega... woh mere kabze mein aa jaayega. Saat din ke andar... woh apne aap ko aag laga lega. Jaise mujhe lagayi thi. Usi aag mein. Tabtak... jab tak koi sachchi maafi nahi maangta."
+
+🖼️ IMAGE PROMPT:
+```
+FLASHBACK — extreme close-up.
+Meera's face in orange firelight.
+Tears catching fire like liquid gold.
+Eyes: burning with righteous pain and fury.
+NOT evil. This is JUSTICE.
+Her lips forming the curse words deliberately.
+Each word a sentence. Each sentence a law.
+Hair wild in the heat-wind.
+Behind her: fire and the crowd.
+The woman they killed becoming their punishment.
+Most powerful image in the episode.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Meera's face filling the frame.
+She speaks the curse — slowly, deliberately.
+Each word lands like a stone in still water.
+Her eyes look at ALL of them — the entire crowd.
+Not one person. All of them.
+She is not a victim in this moment.
+She is justice. She is consequence.
+The fire around her responds — grows.
+As if the universe is listening. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+As the curse is spoken — the peepal tree above her
+shudders. Every leaf trembles simultaneously.
+The crowd steps back as one.
+Something has changed. Everyone feels it.
+The fire dims strangely — almost out.
+Then: Meera closes her eyes. Final breath.
+The crowd is silent. What have they done?
+Too late to ask that now.
+```
+
+---
+
+### CLIP 20 | ⏱️ 04:40–04:55
+**First death — the curse begins**
+
+🎙️ NARRATOR:
+> "Saat din baad... pehla mard gaya. Ped ki taraf. Raat ko. Akela. Jaise koi kheench raha ho. Subah uski laash wahan mili. Aag ke nishaan the. Khud ne lagayi thi. Pehla. Par pehla aakhri nahi tha."
+
+🖼️ IMAGE PROMPT:
+```
+FLASHBACK — aftermath.
+Dawn. The peepal tree visible from distance.
+Villagers approaching slowly — seeing something.
+A figure near the base of the tree.
+Not moving.
+Their faces: horror. Recognition. Dread.
+The curse was real.
+The first proof. The first death.
+The first of many.
+2D Khooni Monday style. Dark dawn. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Dawn. Villagers approaching peepal tree cautiously.
+They stop short of the base — see something.
+Camera on their faces — the horror of recognition.
+They whisper among themselves.
+One woman collapses — someone she knew.
+The curse was not a story.
+It was a contract.
+And the first payment has been collected. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Camera holds on the peepal tree from distance.
+The village grieving in background.
+The tree unchanged. Unmoved.
+It has collected its first.
+It will collect more.
+Cut to: passage of time montage.
+Deaths. Years passing. More deaths.
+The tree always there. Always waiting.
+```
+
+---
+
+### CLIP 21 | ⏱️ 04:55–05:10
+**Gaon walon ne ped ki taraf jaana band kar diya**
+
+🎙️ NARRATOR:
+> "Gaon walon ne ped ki taraf jaana poori tarah band kar diya. Rope laaga di. Nishaan lagaa diye. Darne se nahi... guilt se. Kyunki woh jaante the ki unhone kya kiya tha. Aur woh jaante the... Meera ka shaap sach hai."
+
+🖼️ IMAGE PROMPT:
+```
+Villagers — multiple men — putting up the rope barrier
+around the peepal tree.
+Their faces: guilt mixed with fear.
+Not just protecting people.
+Trying to forget what they did.
+The rope barrier is their way of walling off their guilt.
+Out of sight. Out of mind.
+But not really. Never really.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Men hammering stakes into the ground around the tree.
+Stringing the rope barrier.
+Their movements: urgent, guilty, not making eye contact.
+No one speaks. No one wants to say what they are doing.
+Or why. Everyone knows why.
+An old woman watches from distance — arms crossed.
+Her expression: this won't fix what you did.
+Camera holds on the finished barrier.
+A fence around guilt. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Years pass in implied time lapse.
+The rope barrier ages — fraying — but still there.
+Each generation repairs it. Keeps it up.
+Warning signs added over the years.
+The young don't know the full story.
+The old don't tell it.
+They just say: never go near that tree.
+Never ask why. Just never go.
+```
+
+---
+---
+
+# 🎬 SCENE 04 — BAHUT SAAL BAAD — RAJAN KI RAAT
+## ⏱️ 05:30 – 07:30
+
+---
+
+### CLIP 22 | ⏱️ 05:30–05:42
+**Present day — many years later — Rajan's night**
+
+🎙️ NARRATOR:
+> "Bahut saal guzar gaye. Nai peedi aayi. Woh log mar gaye jinhone yeh kiya tha. Nai peedi ke liye yeh sirf ek purani kahani thi. Aur phir... ek raat... Rajan ne woh galti ki jo pehle bahut logon ne ki thi."
+
+🖼️ IMAGE PROMPT:
+```
+BACK TO PRESENT — full color.
+Same village road. Night.
+Rajan walking home from wedding celebration.
+Rear view. Torch in hand. Alone.
+Village celebration lights far behind.
+Fog on road. Peepal tree visible far ahead — dark shape.
+The rope barrier visible at the tree's edge.
+He is walking toward it without realizing.
+2D Khooni Monday style. Cold night tones. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Back to present — full color returns.
+Rajan walking home after wedding.
+Relaxed. Torch swinging. Happy from celebration.
+The rope barrier around peepal tree visible far ahead.
+He has seen it his whole life. Never gone near.
+Tonight his path takes him close.
+Closer than usual.
+His feet keep walking. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Rajan's pace slows as he gets closer to the rope barrier.
+The barrier visible now — old rope, faded warning signs.
+He has always walked around it before.
+Tonight something pulls him toward it.
+He stops at the barrier's edge.
+Looks at the tree beyond. In the darkness.
+```
+
+---
+
+### CLIP 23 | ⏱️ 05:42–05:54
+**Rajan crosses the barrier — the mistake**
+
+🎙️ NARRATOR:
+> "Rajan ne woh rope ki taraf dekha. Woh barrier... jo hamesha wahan tha. Aaj raat... na jaane kyun... usne rope ko haath lagaya. Thoda aage badha. Aur phir... ek kadam aur."
+
+🖼️ IMAGE PROMPT:
+```
+[RAJAN]
+Ground level shot — Rajan's feet at the rope barrier.
+One foot on this side. One foot crossing over.
+The rope between his feet — he is crossing it.
+His hand holds the rope — lowering it to step over.
+He has crossed the boundary.
+The peepal tree dark and huge ahead.
+Ground fog begins immediately on the other side.
+As if the barrier kept more than just people out.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Ground level — Rajan's feet crossing the rope barrier.
+The moment his second foot crosses over —
+the fog on the ground shifts — moves toward him.
+The temperature implied to have dropped.
+He doesn't notice. He keeps walking toward the tree.
+Each step takes him deeper into the tree's territory.
+The rope barrier behind him — now crossed.
+No going back. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Rajan approaches the peepal tree base.
+He reaches the tree. Touches the trunk.
+The moment his hand touches bark —
+he freezes. Completely still.
+Eyes go blank. Like a light going out.
+The possession has begun.
+The tree has him now.
+```
+
+---
+
+### CLIP 24 | ⏱️ 05:54–06:06 ⚠️ KEY — THE WHITE FIGURE
+**Meera appears — first sight**
+
+🎙️ NARRATOR:
+> "Tabhi... ped ke dusri taraf se... woh aayi. Safed kapde. Lambi kali baal. Seedha Rajan ki taraf. Aur Rajan... apni jagah se hil nahi saka."
+
+🖼️ IMAGE PROMPT:
+```
+[CHUDAIL — facing TOWARD camera for first time]
+Medium shot. Meera/Chudail approaching from behind the tree.
+Coming TOWARD Rajan — toward the viewer.
+Long wild black hair. Torn white saree.
+Red glowing eyes — visible now.
+She moves — but her feet barely touch ground — floating.
+Her approach: deliberate. She knows who he is.
+She has been waiting. She is not surprised.
+He came to her this time.
+2D Khooni Monday style — from reference image. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+The Chudail emerges from behind the peepal tree.
+Coming TOWARD Rajan. Coming toward camera.
+Red eyes glowing in the darkness.
+Her torn white saree drifts — no wind needed.
+She moves with terrible purpose.
+Not angry. Not attacking.
+She has been waiting for someone to come.
+Someone she can give the curse to.
+Rajan is frozen. Cannot move. Cannot run. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+She approaches until she is close to Rajan.
+She reaches out one pale hand — long fingers.
+Touches his forehead gently.
+Not violent. Almost tender.
+This is the possession beginning.
+Rajan's eyes flutter — then go still.
+Red glow appears briefly in his pupils.
+She has entered him. The 7 day countdown begins.
+```
+
+---
+
+### CLIP 25 | ⏱️ 06:06–06:18
+**Rajan possessed — walks home wrong**
+
+🎙️ NARRATOR:
+> "Rajan ghar pahuncha. Par woh Rajan nahi tha. Kuch aur tha andar. Ma ne dekha. Gaon walon ne dekha. Aankhen ek number thi. Awaaz thodi alag thi. Koi kuch nahi samjha. Par Ma jaanti thi."
+
+🖼️ IMAGE PROMPT:
+```
+[RAJAN — POSSESSED]
+Rajan walking on village road — toward home.
+But his walk is WRONG.
+Too straight. Too mechanical. Too precise.
+Normal people have small variations — he has none.
+His eyes: open but staring directly ahead.
+No warmth. No humanity in the gaze.
+A passing villager sees him — stops — stares.
+Something is wrong. They can feel it.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Rajan walking home — mechanical, precise, wrong.
+Passing villager stops and stares at him.
+Rajan doesn't react to the villager at all.
+Just walks. Eyes forward. No expression.
+Villager watches him go — deeply unsettled.
+Doesn't know what they saw. But they saw something.
+Rajan enters his home.
+Door closes. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Interior — Rajan sits on charpoy.
+Ma approaches — hand on his shoulder.
+He turns to look at her.
+Too slowly. The wrong way.
+His eyes: a flicker of red — barely there.
+Ma pulls her hand back. Her face collapses.
+This is not her son looking at her.
+```
+
+---
+
+### CLIP 26 | ⏱️ 06:18–06:30
+**Days pass — the 7 day countdown — Rajan changing**
+
+🎙️ NARRATOR:
+> "Ek din. Do din. Teen din. Rajan badalta ja raha tha. Raat ko uthta. Ped ki taraf dekhta. Kuch bolta jo samajh nahi aata tha. Ma dar gayi thi. Aur woh jaanti thi... 7 din purane ho rahe hain."
+
+🖼️ IMAGE PROMPT:
+```
+[RAJAN — POSSESSION DEEPENING]
+Night. Interior.
+Rajan standing at window — staring toward peepal tree direction.
+His posture: unnatural stillness.
+Eyes: more red now — clearly visible glow.
+His lips moving slightly — saying something silently.
+[MA] in background — watching from doorway.
+Her face: terror building day by day.
+A calendar or candles on wall — 3 marked off.
+4 days remain. Clock is ticking.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Rajan at window — staring toward peepal tree.
+His lips move silently — Meera's words through him.
+The red glow in his eyes stronger than day one.
+Ma watching from doorway — shaking.
+She counts mentally. Three days gone.
+The old stories. The 7 day pattern.
+She knows what happens on day 7.
+She has heard. She always thought it was stories.
+It is not stories. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Rajan slowly turns from window.
+Looks directly at Ma.
+His voice — her voice: "Chaar din aur."
+Four more days.
+Ma's knees almost give way.
+He knows the countdown too.
+She is completely out of time.
+She has to do something. Now.
+```
+
+---
+---
+
+# 🎬 SCENE 05 — MA PANDITJI KE PAAS — POORI KAHANI
+## ⏱️ 07:30 – 09:30
+
+---
+
+### CLIP 27 | ⏱️ 07:30–07:42
+**Ma runs to Panditji — desperate**
+
+🎙️ NARRATOR:
+> "Subah hote hi Ma bhaagi. Seedha Pandit Keshavram ke paas. Woh sab kuch jaante the is gaon mein. Poori umar yahan guzaari thi. Woh jaante the ki kya hua tha. Woh jaante the ki kya ho sakta hai."
+
+🖼️ IMAGE PROMPT:
+```
+[MA — running/hurrying — terror on face]
+[PANDITJI — age 60, grey beard, strong face — at his door]
+Early morning. Ma arriving at Panditji's door.
+Her hair slightly undone — she ran. She didn't sleep.
+Panditji at door — he sees her face — he already knows.
+His expression: the terrible calm of a man
+who has been waiting for this visit for years.
+He steps aside. Lets her in. No surprise.
+He knew this day would come.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Ma arrives at Panditji's door — breathless.
+She doesn't need to say much.
+He looks at her face and understands.
+He glances toward peepal tree in distance.
+A long, steady, knowing look.
+Then he steps back — opens door wider.
+"Andar aao." Calm. Certain.
+He has been waiting for this. Years of waiting.
+8 seconds.
+```
+
+🔁 EXTEND:
+```
+Interior — Panditji pours water for Ma.
+She is shaking. Trying to form words.
+He holds up one hand: "Pehle paani pee lo."
+She drinks. He waits.
+His patience: the patience of someone
+who has carried a secret for a long time.
+Now he will put it down.
+Now he will tell it.
+```
+
+---
+
+### CLIP 28 | ⏱️ 07:42–07:55
+**Panditji — "Main jaanta tha yeh din aayega"**
+
+🎙️ NARRATOR:
+> "Ma ne saari baat bataayi. Possession. Aankhen. Awaaz. 7 din. Panditji ne suna. Aankhein band karke. Phir ek lambi khamoshi. Bole... Main jaanta tha. Main tab bhi wahan tha. Jab yeh sab hua tha."
+
+🖼️ IMAGE PROMPT:
+```
+[PANDITJI — close-up — weight of confession]
+His eyes closed after hearing Ma.
+The lamp between them. Heavy shadows.
+His expression: not just sadness.
+Guilt. He was THERE.
+He was in that village crowd.
+He saw what happened to Meera.
+He said nothing.
+That silence is what he carries.
+Most weight-bearing portrait in the episode.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Panditji — eyes closed after hearing everything.
+His hands tighten in his lap.
+"Main jaanta tha. Main tab bhi wahan tha."
+Ma stares at him. Understanding beginning.
+He was there. He witnessed it.
+He is not just a keeper of knowledge.
+He is a witness. A guilty witness.
+The lamp flame flickers. Deep breath. He opens his eyes.
+"Ab mujhe sab kuch sunana hoga." 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Panditji looks directly at Ma.
+"Jo main sunaane wala hoon... sunna mushkil hoga.
+Par sunna zaroori hai."
+Ma nods. She can take it.
+Whatever it is.
+Her son's life depends on it.
+Panditji begins. The full story. The real story.
+```
+
+---
+
+### CLIP 29 | ⏱️ 07:55–08:10
+**Panditji tells Meera's story — he was there**
+
+🎙️ NARRATOR:
+> "Panditji ne bataya... Meera ek aam ladki thi. Beqasoor. Par gaon mein musibat thi. Log daraaye hue the. Bhookhe the. Kisi ne keh diya yeh Meera daayan hai. Aur phir... gaon ne mil ke... woh kaam kiya jo kabhi nahi karna chahiye tha."
+
+🖼️ IMAGE PROMPT:
+```
+[PANDITJI speaking — flashback overlay visible]
+As Panditji speaks — ghostly sepia flashback images
+appear as overlay on his face and the room.
+Meera's innocent face. The drought. The accusation. The fire.
+All of it playing as Panditji narrates.
+His face in foreground — the memories behind him.
+He saw all of this. He was there.
+A young Panditji visible in the flashback crowd —
+one face among many. He didn't stop it.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Panditji speaking — his words summoning the images.
+Flashback scenes appear ghostly around him.
+As he describes the accusation — the chaupaal scene appears.
+As he describes the fire — the burning appears.
+And in that flashback crowd — a younger face.
+His face. He was there.
+Ma's eyes widen — she realizes.
+He was there. He saw it. He did nothing.
+8 seconds.
+```
+
+🔁 EXTEND:
+```
+Ma looks at Panditji differently now.
+He sees her recognition. He doesn't look away.
+"Haan. Main wahan tha. Main bhi uss bheed ka hissa tha.
+Maine nahi roka."
+The admission. The guilt. Carried for decades.
+"Isliye... mujhe yeh sab kuch pata tha. Aur isliye...
+main kuch na kar sakne ki kami hamesha mehsoos karta raha."
+```
+
+---
+
+### CLIP 30 | ⏱️ 08:10–08:25
+**The curse explained — 7 days — self immolation**
+
+🎙️ NARRATOR:
+> "Meera ne shaap diya tha... jo bhi mard is ped ke paas aayega... woh possess ho jaayega. Saat din mein woh apne aap ko waise hi jalaayega... jaise use jalaaya gaya tha. Jab tak koi sachchi maafi nahi maangta... yeh silsila band nahi hoga."
+
+🖼️ IMAGE PROMPT:
+```
+[PANDITJI explaining — oil lamp between him and Ma]
+Panditji's hands gesturing — explaining the curse mechanics.
+On the wall behind him — implied visual:
+A silhouette at the peepal tree.
+7 marks beside it — counting down.
+On day 7 — the silhouette surrounded by fire.
+The pattern. Clear. Visual. Terrible.
+Ma's face as she understands — her son has 4 days.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Panditji explains the curse mechanics clearly.
+His finger traces the pattern — 7 days.
+Ma's face: understanding building with each word.
+"Saat din." Her lips move repeating it.
+"Rajan ko kitne din hue?" Panditji asks.
+"Teen." Ma's voice breaks.
+Panditji: "Toh chaar din baaki hain."
+Four days. The urgency now absolute.
+Camera on Ma's face — mother calculating time she doesn't have.
+8 seconds.
+```
+
+🔁 EXTEND:
+```
+Panditji reaches out — puts hand on Ma's arm. Steady.
+"Ek raasta hai." He says quietly.
+Ma looks up — desperate hope in her eyes.
+"Kya?" What is it?
+He will tell her. He has known for years.
+He has been waiting for someone to come.
+So he could finally try to fix what he witnessed.
+```
+
+---
+
+### CLIP 31 | ⏱️ 08:25–08:40
+**The solution — Panditji explains**
+
+🎙️ NARRATOR:
+> "Panditji ne kaha... Rajan ko khud us ped ke paas jaana hoga. Raat barah baje. Sindoor aur kala til le ke. Aur sachchi maafi maangni hogi. Is gaon ki taraf se. Un logon ki taraf se jinhone yeh kiya tha. Dil se. Sirf tabhi Meera jaayegi."
+
+🖼️ IMAGE PROMPT:
+```
+[PANDITJI] [MA]
+Panditji leaning forward — serious, certain.
+His hands holding sindoor in one palm — black til in other.
+Showing Ma what is needed.
+His face: this IS the way. He is certain.
+Not because someone told him — because he knows Meera.
+He knew her. He was there when she died.
+He knows what she needs.
+Ma absorbing every word. Every detail.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Panditji shows Ma the sindoor and til in his palms.
+Explains the ritual — each step clear and deliberate.
+"Sachchi maafi. Is gaon ki taraf se."
+"Ek insaan ki taraf se jo sach mein sorry ho."
+Not a religious ritual. A human reckoning.
+The sincerity is what matters. Not the ceremony.
+Ma listens to every word. Memorizing.
+She will tell Rajan. She will prepare him. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Ma stands — ready to go.
+Panditji stands with her.
+He takes her hand for a moment.
+"Ek aur baat." One more thing.
+"Rajan ko poori sachai batao. Meera ki poori kahani.
+Woh jab maafi maange — toh woh jaanta ho kiske liye maang raha hai.
+Sachchi maafi andhi nahi hoti."
+True apology is not blind. It knows what it apologizes for.
+Ma nods. She understands. She goes.
+```
+
+---
+---
+
+# 🎬 SCENE 06 — AAKHRI RAAT — RAJAN KI MAAFI
+## ⏱️ 09:30 – 11:00
+
+---
+
+### CLIP 32 | ⏱️ 09:30–09:42
+**Ma tells Rajan everything**
+
+🎙️ NARRATOR:
+> "Ma ne Rajan ko sab kuch bataya. Meera ki kahani. Gaon ne kya kiya tha. Kyu kiya tha. Aur Rajan ka iss sab mein kya kaam tha. Rajan ne suna. Kuch nahi bola. Andar se kuch badal raha tha."
+
+🖼️ IMAGE PROMPT:
+```
+[MA] [RAJAN — possessed but listening]
+Interior. Ma and Rajan facing each other.
+She is telling him everything.
+His possessed face: the red glow present.
+But as she talks — something shifts in his expression.
+The possession loosening slightly as the truth is spoken.
+As if Meera inside him is listening too.
+As if she also wants him to hear this.
+The truth reaching both of them.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Ma telling Rajan everything — Meera's story.
+The drought. The accusation. The fire. The curse.
+As she speaks — the red glow in Rajan's possessed eyes
+shifts. Flickers. Something reacting.
+Meera inside him — hearing her own story.
+Hearing herself described. Recognized.
+The red flicker changes — for a brief moment —
+becomes something else. Not anger.
+Almost... acknowledgment. She is listening. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Ma finishes. Silence.
+Rajan — possessed — is completely still.
+Then he speaks. But which voice?
+His own — struggling back — or hers?
+"Jaao. Ped ke paas. Raat barah baje."
+Ma: "Tum theek ho jaoge?" 
+His own voice — faintly — underneath:
+"Koshish karo." Try.
+```
+
+---
+
+### CLIP 33 | ⏱️ 09:42–09:54
+**Ma's goodbye — emotional**
+
+🎙️ NARRATOR:
+> "Ma ne Rajan ka haath pakda. Aankhon mein aansu. Mat jaa beta. Par dono jaante the. Jaana hi hoga. Kyunki char din baaki the. Aur ped ka rasta ek hi tha."
+
+🖼️ IMAGE PROMPT:
+```
+[MA] [RAJAN]
+Interior doorway. Night.
+Ma gripping Rajan's arm. Crying.
+Rajan — his own self returning slightly —
+because he heard Meera's story. The truth helped.
+His eyes: less red now. More his own.
+He gently removes her grip.
+His face: not confident. Not brave. Just necessary.
+He knows this must be done.
+He goes because there is no other choice.
+Most emotional image. 2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Ma clutches Rajan. Crying.
+He removes her hands gently.
+Looks at her — his own eyes. Mostly his own.
+No bravado. No heroics.
+Just a young man who has to do something terrible
+because no one else can.
+He turns toward the dark door.
+Steps outside. Into the night.
+Her hand reaches after him. Falls. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Ma stands in doorway watching him go.
+His figure walking toward the peepal tree.
+The rope barrier in the distance — already crossed before.
+This time he goes knowing.
+This time he goes choosing.
+She whispers — maybe to Meera:
+"Please. Woh sirf ek baccha hai. Aur woh jaanta hai tumne kya jhela."
+```
+
+---
+
+### CLIP 34 | ⏱️ 09:54–10:06 ⚠️ ICONIC
+**Walk to tree — carrying the weight of the village**
+
+🎙️ NARRATOR:
+> "Rajan akela chala. Is gaon ki taraf se. Un logo ki taraf se jinhone Meera ke saath galat kiya tha. Woh unhe jaanta bhi nahi tha. Par yeh karna tha. Kyunki koi aur karne wala nahi tha."
+
+🖼️ IMAGE PROMPT:
+```
+[RAJAN — ICONIC SHOT]
+Rear view. Rajan walking toward peepal tree at midnight.
+Small against massive darkness.
+The rope barrier visible — he crosses it again deliberately.
+This time with full knowledge. Full choice.
+Full moon above. Moonlit path.
+He walks toward what he knows is there.
+Not in ignorance. In courage.
+The weight of an entire village's guilt on one young man.
+Most important image of the episode.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Rajan walks toward tree — from behind.
+He reaches the rope barrier — pauses.
+Then deliberately steps over it.
+Knowing exactly what he is doing.
+He continues toward the tree.
+This is not stumbling into danger.
+This is choosing to face it.
+For Meera. For the village. For the future.
+Camera follows slowly. Silence. Weight. Purpose. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Rajan reaches the tree base.
+The darkness under the canopy complete.
+He can't see his own hands in the shadow.
+He kneels anyway. On faith.
+On the knowledge of what he owes.
+Not what he personally owes.
+What his people owe.
+```
+
+---
+
+### CLIP 35 | ⏱️ 10:06–10:18
+**Rajan kneels — the apology**
+
+🎙️ NARRATOR:
+> "Rajan ne ghutne teke. Sindoor rakha. Haath jode. Aankhein band ki. Aur bola... Meera. Jo iss gaon ne tumhare saath kiya... woh galat tha. Bilkul galat. Main uss waqt nahi tha. Par main iss gaon ka hissa hoon. Aur main... sachchi maafi maangta hoon."
+
+🖼️ IMAGE PROMPT:
+```
+[RAJAN kneeling — central image of entire episode]
+Rajan kneeling beneath peepal tree.
+Head bowed. Hands pressed in prayer.
+Vivid RED sindoor on earth before him.
+Single moonbeam on him.
+Massive trunk behind. Roots around.
+Completely alone.
+The red glow in his eyes: fading.
+As he speaks the truth — the possession weakens.
+The maafi itself is the medicine.
+Most powerful image. 2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Rajan kneeling. Moonbeam on him.
+His lips moving — the apology forming.
+Not "save me." Not "I'm sorry I came here."
+"What was done to you was wrong."
+The distinction matters.
+This is accountability. Not bargaining.
+As he speaks — the red glow in his eyes fades.
+Possession losing its grip with each true word.
+The tree is listening. She is listening. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Rajan continues — tears forming.
+He didn't know Meera. Never met her.
+But as he speaks her name — he feels something.
+A presence. Not threatening.
+Something that has been waiting a long time
+to be seen. To be acknowledged.
+"Aap beqasoor thin. Aap deserve nahi karti thin yeh."
+The simplest truth. The most powerful truth.
+```
+
+---
+
+### CLIP 36 | ⏱️ 10:18–10:30
+**The wind — her response — "Jaao"**
+
+🎙️ NARRATOR:
+> "Phir ek thandi hawa chali. Itni thandi ki saans ruk jaaye. Rajan ki aankhon se aansu bah chale. Aur tabhi... bahut door se... ek awaaz aayi. Thaki hui. Bhari hui. ...Jaao."
+
+🖼️ IMAGE PROMPT:
+```
+[RAJAN — supernatural wind — MEERA fading]
+Rajan kneeling in supernatural wind.
+But also — behind him barely visible —
+Meera's translucent form.
+Not threatening. Dissolving.
+The red of her eyes: fading to warm brown.
+Her human self returning as she releases.
+Rajan doesn't see her. But she is there.
+She hears him. She believes him. She releases.
+2D Khooni Monday style. Most cathartic image. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Supernatural wind erupts — Rajan holds his position.
+Behind him — translucent — Meera becomes visible.
+She watches him kneel. She listens to his words.
+Her red eyes soften — warm brown appearing beneath.
+Her torn white saree begins to glow warmly — not coldly.
+She lifts one hand toward him — not to harm.
+Something like gratitude.
+Then: "...Jaao." From her. To him.
+Not "go away in fear." "You may go. You are free."
+8 seconds.
+```
+
+🔁 EXTEND:
+```
+The wind drops completely.
+Meera's form dissolving — from edges inward.
+Her red eyes: warm brown. Meera's eyes. Before.
+She looks at the village one last time.
+Something complex in that look.
+Grief. And release. Both together.
+Then she dissolves completely. Just moonlight.
+She is gone. Finally.
+```
+
+---
+
+### CLIP 37 | ⏱️ 10:30–10:42
+**Rajan free — dawn — changed**
+
+🎙️ NARRATOR:
+> "Rajan ki aankhon se laal roshni gayi. Woh apna aap tha. Poori tarah apna aap. Subah ho rahi thi. Woh uthkar khada hua. Aur peepal ka ped... sirf ped tha. Sirf ek ped."
+
+🖼️ IMAGE PROMPT:
+```
+[RAJAN — dawn — freed]
+Dawn light. First warmth.
+Rajan standing beneath peepal tree — facing sunrise.
+His eyes: completely normal. Dark brown. His own.
+No red. No possession.
+But he looks different — older somehow.
+He has seen something. Carried something.
+He will not forget.
+The tree behind him: just wood and leaves.
+Just a tree. The curse lifted.
+2D Khooni Monday style — WARM dawn tones. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Dawn light warming the scene.
+Rajan opens his eyes — completely his own.
+He looks at his hands — normal.
+Looks up at the tree above him — just a tree.
+Birds land on branches — they weren't afraid before —
+but now they land WITH him standing beneath.
+They were always afraid of what was in the tree.
+Not the tree itself.
+He exhales. Long. Everything releasing. 8 seconds.
+```
+
+---
+---
+
+# 🎬 SCENE 07 — OUTRO
+## ⏱️ 11:00 – 11:30
+
+---
+
+### CLIP 38 | ⏱️ 11:00–11:12
+**The rope barrier comes down**
+
+🎙️ NARRATOR:
+> "Gaon walon ko pata chala. Rajan ne kya kiya. Kuch log samjhe. Kuch nahi samje. Par ek kaam zaroor hua. Ped ke aas paas ki rope... utaar di gayi. Pehli baar. Saalon mein pehli baar."
+
+🖼️ IMAGE PROMPT:
+```
+Morning. Village people gathered at the peepal tree.
+They are removing the rope barrier.
+Their faces: uncertain — some hopeful — some fearful still.
+Rajan standing to one side — watching.
+The rope coming down — stakes being pulled.
+The peepal tree standing without the barrier for first time
+in many many years.
+Just a tree. Standing in morning light.
+2D Khooni Monday style. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Villagers removing the rope barrier.
+Each stake pulled from ground — each rope coiled up.
+The circle around the tree opening.
+For the first time in decades — the tree stands free.
+Not because it is safe in the old way.
+Because what was in it — is gone.
+Rajan watches. Not triumphant. Thoughtful.
+A tree. Just a tree. Always just a tree. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+The last rope comes down.
+Villagers step back and look at the tree.
+Now accessible. Now just an old tree.
+One old woman in the crowd —
+one who was perhaps a child when it happened —
+folds her hands toward the tree.
+Not worship. Acknowledgment.
+Meera. Wherever you are now. We are sorry too.
+```
+
+---
+
+### CLIP 39 | ⏱️ 11:12–11:24
+**The tree today — just a tree**
+
+🎙️ NARRATOR:
+> "Aaj bhi woh peepal ka ped wahan hai. Kaaldaas Ka Tola mein. Gaon waale ab ped ke paas jaate hain. Bachche khelne bhi jaate hain. Rona sunai nahi deta raat ko. Payal ki awaaz nahi aati."
+
+🖼️ IMAGE PROMPT:
+```
+The peepal tree TODAY. Daytime.
+DIFFERENT from all previous shots of the tree.
+Children playing near its base.
+An old man sitting in its shade.
+Normal village life happening around it.
+The shadow under it: just shadow. Normal tree shadow.
+The old red cloth on one root — still there.
+A marker. A memory.
+Not a warning anymore. A reminder.
+2D Khooni Monday style. WARM tones. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+The peepal tree in warm afternoon light.
+Children running around its base — playing.
+An old man sitting in its enormous shade — resting.
+Normal life. Normal tree.
+The same tree that was so terrifying for so long.
+Now: just an ancient peepal tree.
+Providing shade. Standing in the sun.
+Camera holds on this ordinary beautiful scene. 8 seconds.
+```
+
+🔁 EXTEND:
+```
+Camera slowly zooms to the base of the tree.
+The old red cloth still tied to one root.
+Someone has placed a fresh flower beside it recently.
+An anonymous offering. An acknowledgment.
+Meera is remembered here now.
+Not as a monster. As someone who was wronged.
+That is the difference. That is everything.
+```
+
+---
+
+### CLIP 40 | ⏱️ 11:24–11:30
+**Outro — Tantra Mantra**
+
+🎙️ NARRATOR:
+> "Jo aatmaayein rukti hain... woh sirf insaaf maangti hain. Rajan ne diya. Gaon ne diya. Isliye Meera gayi. Kyunki sachchi maafi... sachchi hoti hai jab woh poori sachai jaanke maangi jaaye. Subscribe karo. Bell dabao. Agla Monday... aur bhi dark hoga. Aap sun rahe the... Tantra Mantra."
+
+🖼️ IMAGE PROMPT:
+```
+TANTRA MANTRA LOGO.
+Blood red and bone white on pure black.
+Fog at base. Subscribe bell icon.
+Simple. Dark. Memorable. 16:9.
+```
+
+🎬 VEO ANIMATE:
+```
+Logo materializes from darkness.
+"Tantra Mantra" fades in.
+Bell icon rings once — visual ripple.
+Logo holds. Then fades.
+Complete darkness.
+Silence.
+End.
+```
+
+---
+---
+
+# 📋 FINAL MASTER CLIP TABLE
+
+| # | Scene | ⏱️ Time | Key Moment | Narrator Summary |
+|---|-------|---------|------------|-----------------|
+| 01-09 | Intro+Hook | 00:00–02:00 | Channel intro + hook | Same |
+| 10 | Rajan | 02:00 | Title card | "Bahut saal pehle" |
+| 11 | Rajan | 02:10 | Rajan — ordinary boy | "Aam gaon ka aam ladka" |
+| 12 | Rajan | 02:22 | Peepal tree — rope barrier | "Jaana matlab maut" |
+| 13 | Rajan | 02:34 | Elders warning | "7 din mein khud ko aag" |
+| 14 | Rajan | 02:46 | Deaths — montage | "Pehla. Par pehla aakhri nahi" |
+| 15 | Meera | 03:30 | Flashback — gaon mein aafat | "Musibat aayi thi" |
+| 16 | Meera | 03:42 | Meera — who she was | "Beqasoor. Akeli. Target." |
+| 17 | Meera | 03:55 | Gaon ka ilzaam | "Daayan hai yeh" |
+| 18 | Meera | 04:10 | ⚠️ Poore gaon ne jala diya | "Poora gaon zimmedaar" |
+| 19 | Meera | 04:25 | ⚠️ The curse — specific | "Saat din. Apni aag." |
+| 20 | Meera | 04:40 | First death — curse real | "Pehla mard gaya" |
+| 21 | Meera | 04:55 | Rope barrier put up | "Guilt se. Darr se." |
+| 22 | Rajan's night | 05:30 | Present — many years later | "Bahut saal guzar gaye" |
+| 23 | Rajan's night | 05:42 | Rajan crosses barrier | "Woh galti jo aur logon ne ki" |
+| 24 | Rajan's night | 05:54 | ⚠️ Meera appears | "Seedha uski taraf" |
+| 25 | Rajan's night | 06:06 | Rajan walks home wrong | "Woh Rajan nahi tha" |
+| 26 | Possession | 06:18 | 7 day countdown | "Chaar din aur" |
+| 27 | Panditji | 07:30 | Ma runs to Panditji | "Poori umar yahan" |
+| 28 | Panditji | 07:42 | ⚠️ "Main wahan tha" | "Main bhi uss bheed mein tha" |
+| 29 | Panditji | 07:55 | Panditji tells full story | "Beqasoor thi. Hum ne kiya." |
+| 30 | Panditji | 08:10 | Curse explained — 7 days | "Saat din. Usi aag mein." |
+| 31 | Panditji | 08:25 | The solution | "Sachchi maafi. Sachchi." |
+| 32 | Aakhri | 09:30 | Ma tells Rajan everything | "Andar kuch badal raha tha" |
+| 33 | Aakhri | 09:42 | Ma's goodbye | "Jaana hi hoga" |
+| 34 | Aakhri | 09:54 | ⚠️ Iconic walk — knowing | "Koi aur karne wala nahi" |
+| 35 | Aakhri | 10:06 | Rajan kneels — real maafi | "Aap beqasoor thin" |
+| 36 | Aakhri | 10:18 | ⚠️ Wind — Meera releases | "Jaao. You are free." |
+| 37 | Aakhri | 10:30 | Rajan freed — dawn | "Sirf ek ped" |
+| 38 | Outro | 11:00 | Rope barrier comes down | "Pehli baar. Saalon mein." |
+| 39 | Outro | 11:12 | Tree today — children play | "Rona sunai nahi deta" |
+| 40 | Outro | 11:24 | Logo — Tantra Mantra | "Agla Monday" |
+
+**TOTAL: 40 CLIPS**
+**ESTIMATED RUNTIME: ~11:30 min**
+
+---
+
+## ⚠️ PRIORITY CLIPS:
+- **Clip 18** — Poore gaon ne milkar jala diya — most tragic
+- **Clip 19** — Meera's curse — 7 days self immolation
+- **Clip 24** — Meera appears to Rajan
+- **Clip 28** — Panditji "Main wahan tha" — most unexpected
+- **Clip 34** — Iconic walk — knowing, choosing
+- **Clip 36** — Meera's eyes turn warm — most cathartic
+
+---
+
+## 📝 KEY STORY CHANGES FROM v2:
+- ✅ Rajan NOT from zamindar family — ordinary boy
+- ✅ ENTIRE VILLAGE burned Meera — not one person
+- ✅ Gaon mein aafat thi — reason for accusation
+- ✅ Curse: possession → 7 days → self immolation same fire
+- ✅ Gaon walon ne ped band kar diya — guilt + fear
+- ✅ Bahut saalon baad Rajan — crossing barrier by mistake
+- ✅ Panditji was IN the crowd — guilty witness — not just keeper of knowledge
+- ✅ Rope barrier comes DOWN at end — gaon acknowledges
+- ✅ Tree becomes normal — children play there
+
+---
+
+*© Tantra Mantra | Episode 01 Visual Script v3 | Final Story*
