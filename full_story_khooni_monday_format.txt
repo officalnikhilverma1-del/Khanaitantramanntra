@@ -1,0 +1,243 @@
+TITLE: Meri Gaon Ki Chudail — Sach, Shaap aur Maafi
+TOTAL RUNTIME TARGET: ~11:30
+FORMAT: Channel Intro to Story End
+
+STYLE SUFFIX (append to all image prompts): Indian rural gothic horror, grounded realism, cinematic composition, volumetric fog, dramatic rim light, textured film grain, high detail, 16:9.
+NEGATIVE PROMPT (append to all image prompts): no neon cyberpunk, no modern city skyline, no cartoon style, no extra limbs, no watermark.
+
+---
+
+[CLIP 01 | 00:00-00:08]
+NARRATOR: (No narration. Cold open atmosphere only.)
+IMAGE PROMPT: Pure black frame slowly revealing drifting fog and dust particles, oppressive darkness, minimal horror mood.
+VEO ANIMATE: Static hold from black; subtle fog bloom; low-frequency rumble synced to fade-in.
+
+[CLIP 02 | 00:08-00:16]
+NARRATOR: (No narration. Sound design only.)
+IMAGE PROMPT: Ancient peepal tree silhouette under a clouded moon, empty barren ground, rural night dread.
+VEO ANIMATE: Very slow push-in toward tree silhouette; distant wind and single crow hit at end.
+
+[CLIP 03 | 00:16-00:24]
+NARRATOR: (No narration. Channel build.)
+IMAGE PROMPT: Close-up of old rope boundary tied to cracked wooden stakes, faded warning cloth, dust-coated fibers.
+VEO ANIMATE: Macro lateral slide along rope; tiny vibration on heartbeat beat; hard cut.
+
+[CLIP 04 | 00:24-00:32]
+NARRATOR: (No narration. Channel ident rise.)
+IMAGE PROMPT: Dark textured background with ember particles gathering at center, occult geometric line hints.
+VEO ANIMATE: Fast center zoom-in with ember swirl; brief white flash transition.
+
+[CLIP 05 | 00:32-00:40]
+NARRATOR: Aap dekh rahe hain… Tantra Mantra.
+IMAGE PROMPT: Horror title card “TANTRA MANTRA” in red-white metallic typography, low fog, ember fall.
+VEO ANIMATE: Locked logo frame with micro shake on three-beat sting; fade to black.
+
+[CLIP 06 | 00:40-00:52]
+NARRATOR: Yeh kahani gaon ki gawahi, purani yaadon aur chupaye gaye sach par aadharit hai.
+IMAGE PROMPT: Distressed disclaimer card on black textured background, documentary-horror tone.
+VEO ANIMATE: Static text card with subtle film jitter and projector flicker.
+
+[CLIP 07 | 00:52-01:08]
+NARRATOR: Is kahani ka darr kisi bhoot se shuru nahi hota. Yeh darr shuru hota hai ek purane gaon ke jurm se, jise saalon tak chupaya gaya.
+IMAGE PROMPT: Night wide of rural village outskirts, dim lanterns, isolated mud path leading toward dark tree line, atmosphere of buried guilt and silence.
+VEO ANIMATE: Slow crane-down to path; ambient dogs barking far away; add low whisper texture as if old memories returning.
+
+[CLIP 08 | 01:08-01:24]
+NARRATOR: Kaaldaas gaon ke bahar ek peepal ka ped hai. Gaon waale kehte hain, wahan aaj bhi Meera naam ki aurat ka dard zinda hai.
+IMAGE PROMPT: Forbidden peepal tree with dense canopy, ring of emptiness around roots, mist swirling at base, old red cloth tied as warning.
+VEO ANIMATE: Tilt from canopy to trunk; hold on roots and warning cloth; low whisper layer enters.
+
+[CLIP 09 | 01:24-01:40]
+NARRATOR: Kehte hain jo bhi mard us seema ke andar gaya, 7 din ke andar aag uska faisla kar deti hai.
+IMAGE PROMPT: Rope boundary foreground with faint glitch text impression “7 DIN KA SHAAP”, moonlit fog, warning zone feel.
+VEO ANIMATE: Rack focus rope to background tree; brief glitch pulse at end; add distant fire crackle in sound bed.
+
+[CLIP 10 | 01:40-01:56]
+NARRATOR: Yeh kahani hai Rajan ki. 22 saal ka seedha-saadha ladka, jo kheton mein kaam karta hai, maa ka khayal rakhta hai, aur jhagde se door rehta hai.
+IMAGE PROMPT: Rajan, 22, lean rural farmer, simple off-white kurta and dark dhoti, honest face, seen at his friend’s village wedding with simple dance, dhol, and warm lights.
+VEO ANIMATE: Start with lively wedding crowd and dhol rhythm; camera finds Rajan smiling briefly before cut to late-night departure.
+
+[CLIP 11 | 01:56-02:12]
+NARRATOR: Ussi raat woh apne dost ki shaadi se laut raha tha. Dhol, nagada, hasna, khana — sab peeche reh gaya, aur raat ke andhere mein usne galat mod le liya.
+IMAGE PROMPT: Rajan returning alone from his friend’s wedding, faint dhol and warm fest lights far behind, he takes a wrong turn onto a darker isolated path.
+VEO ANIMATE: Start with warm wedding bokeh in background then drift with Rajan into dark lane; music muffles from festive to eerie.
+
+[CLIP 12 | 02:12-02:28]
+NARRATOR: Woh peepal ke paas pahunch gaya. Rassi dekhkar ruka… phir socha shortcut hai. Jaise hi usne seema paar ki, hawa ka rang hi badal gaya.
+IMAGE PROMPT: Ground-level shot of Rajan’s foot crossing rope boundary near peepal tree, dry leaves shifting unnaturally inward, shortcut decision turning fatal.
+VEO ANIMATE: Slow-motion step cross; sub-bass drop; abrupt silence tail; add one reverse-wind effect at boundary crossing.
+
+[CLIP 13 | 02:28-02:44]
+NARRATOR: Jaise kisi ne us jagah ki saans rok di ho. Tabhi Rajan ne seema ke andar safed kapdon mein ek aurat ko khade dekha.
+IMAGE PROMPT: Rajan under tree shadow, visible cold breath, fear in eyes, white-clothed woman standing still near peepal trunk in mist.
+VEO ANIMATE: Slow push to close-up; rack focus from Rajan to white-clothed figure; stutter cut on reveal.
+
+[CLIP 14 | 02:44-03:00]
+NARRATOR: Chehra saaf dikhte hi Rajan ka khoon jam gaya. Woh mudkar seedha ghar ki taraf bhaaga.
+IMAGE PROMPT: Half-visible female apparition in white near tree, grief-heavy eyes; Rajan turning and running in panic on mud path.
+VEO ANIMATE: Rapid whip-pan from apparition to Rajan sprint; handheld shake to convey panic.
+
+[CLIP 15 | 03:00-03:16]
+NARRATOR: Ghar pahunchkar bhi darr khatam nahi hua. Puri raat usse wahi ladki yaad aati rahi, aur neend aate hi wahi chehra sapne mein saamne khada milta.
+IMAGE PROMPT: Rajan lying awake in dim room, sweat on forehead, repeated dream flashes of white-clothed woman near peepal.
+VEO ANIMATE: Intercut between Rajan awake and nightmare inserts; heartbeat and breath-heavy sound design.
+
+[CLIP 16 | 03:16-03:32]
+NARRATOR: Agli subah Rajan ki maa Panditji ke paas gayi. Wahin baithkar Panditji ne Meera ki puri kahani sunani shuru ki: saalon pehle is gaon par sukha, bimaari aur bhookh toot padi thi.
+IMAGE PROMPT: Sepia montage of cracked fields, empty well, weak cattle, worried families.
+VEO ANIMATE: Cross-dissolve montage; dry wind soundscape.
+
+[CLIP 17 | 03:32-03:48]
+NARRATOR: Jab jawab nahi milta, bheed wajah nahi… bali ka bakra dhoondti hai.
+IMAGE PROMPT: Villagers whispering in tense circles, suspicious glances toward isolated hut.
+VEO ANIMATE: Circular dolly around murmuring crowd; whisper bed grows.
+
+[CLIP 18 | 03:48-04:04]
+NARRATOR: Us gaon mein rehti thi Meera. Akeli. Jadibootiyon se ilaaj karti thi.
+IMAGE PROMPT: Meera in simple white saree collecting herbs, healing child near hut, sepia realism.
+VEO ANIMATE: Soft lateral glide; gentle warm highlights; whispers continue.
+
+[CLIP 19 | 04:04-04:20]
+NARRATOR: Meera ki alag zindagi ko logon ne daayan hone ka saboot maan liya.
+IMAGE PROMPT: Meera center frame encircled by torch-lit villagers, fear turning to accusation.
+VEO ANIMATE: Top-down descent onto Meera; torch flare wipe.
+
+[CLIP 20 | 04:20-04:36]
+NARRATOR: Kisi ke paas saboot nahi tha. Par andhvishwas ko saboot ki zarurat nahi hoti.
+IMAGE PROMPT: Montage of accusing fingers, angry mouths, silent bystanders looking away.
+VEO ANIMATE: Rapid cut sequence with 1-second beats and punch-ins.
+
+[CLIP 21 | 04:36-04:52]
+NARRATOR: Us raat poore gaon ne milkar Meera ko peepal se baandh diya.
+IMAGE PROMPT: Many hands tying rope around Meera’s wrists against rough tree bark, collective crime framing.
+VEO ANIMATE: Macro detail edits of knot pull and rope tightening.
+
+[CLIP 22 | 04:52-05:08]
+NARRATOR: Yeh ek aadmi ka paap nahi tha. Yeh sabka faisla tha.
+IMAGE PROMPT: Wide tableau of entire village with raised torches around tree, moral collapse.
+VEO ANIMATE: Slow 180-degree arc around crowd; fire crackle rises.
+
+[CLIP 23 | 05:08-05:24]
+NARRATOR: Aag ke beech Meera ne cheekh kam maari… dekha zyada.
+IMAGE PROMPT: Close-up Meera face in firelight, tears, rage, and betrayal.
+VEO ANIMATE: Locked portrait with heat distortion shimmer.
+
+[CLIP 24 | 05:24-05:40]
+NARRATOR: Usne kaha — jo bhi mard is ped ke paas aayega, 7 din mein aag uska faisla karegi.
+IMAGE PROMPT: Burning canopy, embers spiraling upward, villagers frozen in terror.
+VEO ANIMATE: Tilt-up from Meera to violent leaves; smash cut to dawn ashes.
+
+[CLIP 25 | 05:40-05:56]
+NARRATOR: Saat din baad pehli maut mili. Phir doosri. Phir teesri.
+IMAGE PROMPT: Mourning tableaux montage: covered body, crying family, fresh grave soil.
+VEO ANIMATE: Three static grief frames with slow crossfades.
+
+[CLIP 26 | 05:56-06:12]
+NARRATOR: Tab se ped band kar diya gaya. Darr se kam… gunaah chhupane ke liye zyada.
+IMAGE PROMPT: Men installing rope barrier silently at dawn, heads lowered in guilt.
+VEO ANIMATE: Handheld documentary style; time-lapse color shift to present.
+
+[CLIP 27 | 06:12-06:28]
+NARRATOR: Rajan ghar toh aa gaya… par us raat ke baad uske khayalon mein wahi safed kapdon wali ladki bas gayi.
+IMAGE PROMPT: Rajan entering dim house doorway, long unnatural shadow, blurred white-clothed female impression in the corner of his mind.
+VEO ANIMATE: Static interior frame; flickering oil lamp; occasional single-frame apparition flash.
+
+[CLIP 28 | 06:28-06:44]
+NARRATOR: Raat ko sapne mein wahi chehra aata. Din mein woh chup rehta. Uski aankhon mein laal pan, awaaz mein bojh, neend mein chalna — sab shuru ho gaya.
+IMAGE PROMPT: Rajan seated stiffly with faint red eyes, frightened mother in background, dream-echo overlay of white-clothed woman.
+VEO ANIMATE: Slow push-in with slight dutch angle; dream echo overlays and whisper textures.
+
+[CLIP 29 | 06:44-07:00]
+NARRATOR: Phir din ginne lage — ek, do, teen. Har din uski haalat aur bhaari hoti gayi.
+IMAGE PROMPT: Mud wall close-up with tally marks scratched by trembling hand, each mark darker and deeper.
+VEO ANIMATE: Locked insert; tally scratch synced to metallic tick sounds; add faint female whisper on each count.
+
+[CLIP 30 | 07:00-07:16]
+NARRATOR: Teesre din Rajan ki maa mandir daudi.
+IMAGE PROMPT: Rajan’s mother running pre-dawn through narrow lanes clutching cloth bundle.
+VEO ANIMATE: Handheld chase perspective; bell chime as she reaches temple.
+
+[CLIP 31 | 07:16-07:32]
+NARRATOR: Panditji ne kaha — shaap hai. Phir dheere se bola, main bhi us bheed mein tha.
+IMAGE PROMPT: Old Panditji in dim lamp light, trembling face, visible shame and tears.
+VEO ANIMATE: Slow push to extreme close-up; echo dissolve overlay.
+
+[CLIP 32 | 07:32-07:48]
+NARRATOR: Shaap todne ke liye mantra kam, sachchi maafi zyada zaroori hai.
+IMAGE PROMPT: Panditji opening palm with sindoor and black sesame, ritual minimalism.
+VEO ANIMATE: Rack focus face to palm; temple ambience low.
+
+[CLIP 33 | 07:48-08:04]
+NARRATOR: Aaj raat barah baje Rajan ko ped ke neeche ghutne tekne honge.
+IMAGE PROMPT: Mother listening in fear and hope, ritual items in hand, temple doorway silhouette.
+VEO ANIMATE: Gentle side drift; fade to deep night.
+
+[CLIP 34 | 08:04-08:20]
+NARRATOR: Rajan ne sach suna… aur is baar woh darr kar nahi, faisla karke nikla.
+IMAGE PROMPT: Rajan walking with resolve toward peepal tree under moonlit sky.
+VEO ANIMATE: Wide rear dolly follow; footstep emphasis.
+
+[CLIP 35 | 08:20-08:36]
+NARRATOR: Wahi rassi dobara paar hui. Is baar galti se nahi.
+IMAGE PROMPT: Rajan deliberately stepping over rope boundary, no hesitation.
+VEO ANIMATE: Ground-level slow-motion step; tilt up to canopy darkness.
+
+[CLIP 36 | 08:36-08:52]
+NARRATOR: Ped ke neeche baithkar usne sindoor aur kala til zameen par rakha.
+IMAGE PROMPT: Kneeling Rajan under roots, trembling hands placing offerings on soil.
+VEO ANIMATE: High-wide descend to macro hand insert.
+
+[CLIP 37 | 08:52-09:08]
+NARRATOR: Meera… tum beqasoor thi. Zulm hamara tha.
+IMAGE PROMPT: Rajan tearful close-up, apology with folded hands, wind intensifying.
+VEO ANIMATE: Stable frontal close shot; micro-shake from gusts.
+
+[CLIP 38 | 09:08-09:24]
+NARRATOR: Main us waqt nahi tha. Par main usi gaon ka hissa hoon. Main sabki taraf se maafi maangta hoon.
+IMAGE PROMPT: Over-shoulder shot with faint apparition forming behind Rajan, bark pulsing.
+VEO ANIMATE: Slow orbital move revealing spirit silhouette.
+
+[CLIP 39 | 09:24-09:40]
+NARRATOR: Hawa tez hui. Pattay ghoome. Aur Meera ka roop saamne aa gaya.
+IMAGE PROMPT: Translucent Meera spirit emerging in storm of leaves, ember-red eyes softening.
+VEO ANIMATE: Rotational gimbal with layered particle vortex; glow transition.
+
+[CLIP 40 | 09:40-09:56]
+NARRATOR: Is baar uski aankhon mein badla nahi… thakaan thi.
+IMAGE PROMPT: Meera spirit close portrait, grief-heavy expression, eyes shifting from red to warm brown.
+VEO ANIMATE: Slow push-in; eye-color transition timed with music drop.
+
+[CLIP 41 | 09:56-10:12]
+NARRATOR: Hawa mein ek awaaz goonji — Jaao.
+IMAGE PROMPT: Meera raising hand in release gesture, spectral form dissolving into mist.
+VEO ANIMATE: Push to lips then dissolve wide; wind abruptly stops.
+
+[CLIP 42 | 10:12-10:28]
+NARRATOR: Rajan ne aankhein kholi. Andar ki laal aag bujh chuki thi.
+IMAGE PROMPT: Dawn light entering canopy, Rajan standing with normal eyes, exhausted relief.
+VEO ANIMATE: Tilt from offerings on ground up to Rajan face.
+
+[CLIP 43 | 10:28-10:44]
+NARRATOR: Subah gaon ko sach bataya gaya. Kuch log roye, kuch chup rahe.
+IMAGE PROMPT: Villagers gathered near tree, mixed shame and relief, quiet realism.
+VEO ANIMATE: Wide tableau with subtle push-in; no dramatic movement.
+
+[CLIP 44 | 10:44-11:00]
+NARRATOR: Saalon purani rassi hata di gayi.
+IMAGE PROMPT: Hands pulling rope stakes from earth, warning cloth folded away.
+VEO ANIMATE: Insert montage of stake removal; match cut to empty perimeter.
+
+[CLIP 45 | 11:00-11:16]
+NARRATOR: Wahi ped. Wahi zameen. Par iss baar uske neeche darr nahi tha.
+IMAGE PROMPT: Children playing near peepal roots, elder resting in shade, warm morning tone.
+VEO ANIMATE: Gentle handheld natural drift; birds and morning ambience.
+
+[CLIP 46 | 11:16-11:24]
+NARRATOR: Meera chali gayi. Shaap khatam hua.
+IMAGE PROMPT: Close-up root with fresh flower offering and soft sunlight beams.
+VEO ANIMATE: Static poetic hold with dust motes in light rays.
+
+[CLIP 47 | 11:24-11:30]
+NARRATOR: Kuch aatmaayein badla nahi… sachchi maafi chahti hain. Agle episode mein milte hain.
+IMAGE PROMPT: End card with Tantra Mantra branding over dark fog, subtle ember trail.
+VEO ANIMATE: Slow logo reveal and fade to full black with single bell tail.

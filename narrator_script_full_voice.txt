@@ -1,0 +1,72 @@
+TITLE: Meri Gaon Ki Chudail — Sach, Shaap aur Maafi
+PURPOSE: Single narrator-only script for one-pass voice generation (ElevenLabs)
+TARGET DURATION: ~11:30
+LANGUAGE STYLE: Hindi (natural horror storytelling)
+
+---
+
+[SCENE 01 | COLD OPEN + CHANNEL INTRO]
+(No narration. Cold open atmosphere only.)
+(No narration. Sound design only.)
+(No narration. Channel build.)
+(No narration. Channel ident rise.)
+Aap dekh rahe hain… Tantra Mantra.
+Yeh kahani gaon ki gawahi, purani yaadon aur chupaye gaye sach par aadharit hai.
+Is kahani ka darr kisi bhoot se shuru nahi hota. Yeh darr shuru hota hai ek purane gaon ke jurm se, jise saalon tak chupaya gaya.
+Kaaldaas gaon ke bahar ek peepal ka ped hai. Gaon waale kehte hain, wahan aaj bhi Meera naam ki aurat ka dard zinda hai.
+Kehte hain jo bhi mard us seema ke andar gaya, 7 din ke andar aag uska faisla kar deti hai.
+
+[SCENE 02 | RAJAN + SHAADI + GALAT MOD]
+Yeh kahani hai Rajan ki. 22 saal ka seedha-saadha ladka, jo kheton mein kaam karta hai, maa ka khayal rakhta hai, aur jhagde se door rehta hai.
+Ussi raat woh apne dost ki shaadi se laut raha tha. Dhol, nagada, hasna, khana — sab peeche reh gaya, aur raat ke andhere mein usne galat mod le liya.
+Woh peepal ke paas pahunch gaya. Rassi dekhkar ruka… phir socha shortcut hai. Jaise hi usne seema paar ki, hawa ka rang hi badal gaya.
+Jaise kisi ne us jagah ki saans rok di ho. Tabhi Rajan ne seema ke andar safed kapdon mein ek aurat ko khade dekha.
+Chehra saaf dikhte hi Rajan ka khoon jam gaya. Woh mudkar seedha ghar ki taraf bhaaga.
+Ghar pahunchkar bhi darr khatam nahi hua. Puri raat usse wahi ladki yaad aati rahi, aur neend aate hi wahi chehra sapne mein saamne khada milta.
+
+[SCENE 03 | PANDITJI TELLS MEERA BACKSTORY]
+Agli subah Rajan ki maa Panditji ke paas gayi. Wahin baithkar Panditji ne Meera ki puri kahani sunani shuru ki: saalon pehle is gaon par sukha, bimaari aur bhookh toot padi thi.
+Jab jawab nahi milta, bheed wajah nahi… bali ka bakra dhoondti hai.
+Us gaon mein rehti thi Meera. Akeli. Jadibootiyon se ilaaj karti thi.
+Meera ki alag zindagi ko logon ne daayan hone ka saboot maan liya.
+Kisi ke paas saboot nahi tha. Par andhvishwas ko saboot ki zarurat nahi hoti.
+Us raat poore gaon ne milkar Meera ko peepal se baandh diya.
+Yeh ek aadmi ka paap nahi tha. Yeh sabka faisla tha.
+Aag ke beech Meera ne cheekh kam maari… dekha zyada.
+Usne kaha — jo bhi mard is ped ke paas aayega, 7 din mein aag uska faisla karegi.
+Saat din baad pehli maut mili. Phir doosri. Phir teesri.
+Tab se ped band kar diya gaya. Darr se kam… gunaah chhupane ke liye zyada.
+
+[SCENE 04 | POSSESSION + DREAMS + COUNTDOWN]
+Rajan ghar toh aa gaya… par us raat ke baad uske khayalon mein wahi safed kapdon wali ladki bas gayi.
+Raat ko sapne mein wahi chehra aata. Din mein woh chup rehta. Uski aankhon mein laal pan, awaaz mein bojh, neend mein chalna — sab shuru ho gaya.
+Phir din ginne lage — ek, do, teen. Har din uski haalat aur bhaari hoti gayi.
+Teesre din Rajan ki maa mandir daudi.
+Panditji ne kaha — shaap hai. Phir dheere se bola, main bhi us bheed mein tha.
+Shaap todne ke liye mantra kam, sachchi maafi zyada zaroori hai.
+Aaj raat barah baje Rajan ko ped ke neeche ghutne tekne honge.
+
+[SCENE 05 | CLIMAX: MAAFI + MUKTI]
+Rajan ne sach suna… aur is baar woh darr kar nahi, faisla karke nikla.
+Wahi rassi dobara paar hui. Is baar galti se nahi.
+Ped ke neeche baithkar usne sindoor aur kala til zameen par rakha.
+Meera… tum beqasoor thi. Zulm hamara tha.
+Main us waqt nahi tha. Par main usi gaon ka hissa hoon. Main sabki taraf se maafi maangta hoon.
+Hawa tez hui. Pattay ghoome. Aur Meera ka roop saamne aa gaya.
+Is baar uski aankhon mein badla nahi… thakaan thi.
+Hawa mein ek awaaz goonji — Jaao.
+Rajan ne aankhein kholi. Andar ki laal aag bujh chuki thi.
+
+[SCENE 06 | ENDING + OUTRO]
+Subah gaon ko sach bataya gaya. Kuch log roye, kuch chup rahe.
+Saalon purani rassi hata di gayi.
+Wahi ped. Wahi zameen. Par iss baar uske neeche darr nahi tha.
+Meera chali gayi. Shaap khatam hua.
+Kuch aatmaayein badla nahi… sachchi maafi chahti hain. Agle episode mein milte hain.
+
+---
+
+ELEVENLABS DELIVERY NOTES:
+- Read pace: medium-slow, story-led.
+- Emphasis words: “Meera”, “7 din”, “maafi”, “Jaao”.
+- Keep pauses after ellipses (…) and before reveal lines.

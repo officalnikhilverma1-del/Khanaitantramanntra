@@ -1,0 +1,65 @@
+TITLE: Policy-Safe Meera Prompts (Living + Spirit) — White Background Turnaround
+USE CASE: Rewritten prompts to reduce false celebrity/person-match flags
+CANVAS: 16:9 landscape only
+
+HOW TO AVOID FALSE FLAG
+- Use “original fictional character” wording.
+- Avoid any mention of real actors, celebrities, influencers, or “looks like” references.
+- Keep identity generic and story-based.
+
+MASTER STYLE (append exactly)
+STYLE: original fictional character design, 2D semi-realistic digital illustration, Khooni Monday horror style, hand-painted look, thick bold black ink outlines, cel-shaded flat color fills, hard dramatic shadows, NO photorealism, NO 3D render, NO anime style, NO watercolor wash, NO sketch look.
+
+GLOBAL SHEET RULES
+- Pure white background #FFFFFF only.
+- No environment, no props, no text, no watermark.
+- Full-body views must show head to toe.
+- Keep same face and costume across all angles.
+- 16:9 landscape only.
+
+GLOBAL NEGATIVE TAG
+NO real person likeness, NO celebrity resemblance, NO actor reference, NO photoreal face texture, NO 3D materials, NO extra fingers, NO merged limbs, NO cut-off body, NO portrait, NO square.
+
+---
+
+MEERA (LIVING) — POLICY-SAFE TURNAROUND
+
+1) Front full body:
+Original fictional Indian village woman character, age 24-26, warm wheatish-brown skin #C17A4A, oval face, calm empathetic eyes, long black hair tied simply, modest clean white saree #FAFAF5 with thin muted border, minimal jewelry, barefoot, neutral front-standing pose with hands relaxed, full body visible head to toe, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+2) Back full body:
+Same original fictional woman character and same exact proportions/outfit continuity, back full-body standing pose, saree pleat and hair-knot visible from behind, head-to-toe visible, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+3) Side full body (left profile):
+Same original fictional woman character, full-body left side profile, clear saree silhouette and posture, same face/hair continuity, head-to-toe visible, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+4) Face sheet (4 angles):
+Same original fictional woman character head sheet with front view, left profile, right profile, and 3/4 view, calm neutral expression, same facial proportions in all angles, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+---
+
+MEERA SPIRIT — POLICY-SAFE TURNAROUND (inspired by uploaded look, but original)
+
+Visual direction lock:
+- Keep original fictional identity of Meera (same face structure as living form).
+- Ghost skin #8BB8C8, cold off-white saree #E8E8F5 with soft torn edges.
+- Long flowing dark hair, subtle bindi, sorrow-forward expression.
+- Optional red eyes #8B0000 only in spirit variant frame.
+- White background only (no ruins/temple/fog environment in turnaround sheets).
+
+1) Front full body:
+Original fictional ghost woman character (same identity as living Meera), cold blue-grey ghost skin #8BB8C8, cold off-white saree #E8E8F5 with gentle torn hem, long flowing dark hair, subtle sorrowful expression, optional faint red eye glow #8B0000, full-body front pose floating slightly but fully visible head to toe, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+2) Back full body:
+Same original fictional ghost woman character, back full-body view, same saree tear pattern continuity and hair volume continuity, thin slightly softened black outline for supernatural edge, head-to-toe visible, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+3) Side full body (left profile):
+Same original fictional ghost woman character, left side full-body profile, floating drape silhouette, same facial identity continuity from living form, head-to-toe visible, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+4) Face sheet (5 views + eye variant):
+Same original fictional ghost woman head sheet with front, left profile, right profile, 3/4 view, and downward sorrow angle; include small eye variant strip (normal cold eyes and red-glow eyes #8B0000), consistent face proportions, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+---
+
+SHORT FALLBACK PROMPT (if generator still flags)
+"Original fictional Indian woman character turnaround sheet, no real person, no celebrity likeness, full body front/back/side plus face angles, pure white background, 2D semi-realistic cel-shaded hand-painted horror style, 16:9 landscape."
