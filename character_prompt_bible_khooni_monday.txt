@@ -1,0 +1,140 @@
+TITLE: Character Prompt Bible — Meri Gaon Ki Chudail
+PURPOSE: Detailed character prompts for all story characters with strict visual style lock
+ASPECT RATIO: 16:9 widescreen ALWAYS
+
+MASTER STYLE BLOCK (APPEND TO EVERY CHARACTER PROMPT)
+STYLE: 2D semi-realistic digital illustration. Khooni Monday horror style. Hand-painted look. Thick bold black ink outlines on all elements. Cel-shaded flat color fills with dramatic shadow zones. NO photorealism. NO 3D render. NO anime style. NO watercolor wash. NO sketch look.
+
+COLOR PALETTE — STRICT:
+Primary dark: #0D1117 near-black navy
+Shadow color: #1A1F2E dark blue-grey
+Moonlight: #B8D4E8 cold pale blue-white
+Ghost skin: #8BB8C8 cold blue-grey
+Living skin: #C17A4A warm wheatish-brown
+Blood red: #8B0000 deep blood red — ONLY for eyes and sindoor
+Fire orange: #FF6A00 — ONLY for fire scenes and lamp light
+Saree white: #E8E8F5 cold off-white for ghost
+Clean white: #FAFAF5 warm white for living characters
+Ground fog: #2A3545 dark blue-grey mist
+
+LIGHTING RULES — STRICT:
+Night scenes: Cold blue-white moonlight from ABOVE.
+Deep shadow zones: #0D1117 — hard edge shadows not soft gradient.
+Fire scenes: Orange #FF6A00 from BELOW — warm vs cold contrast.
+NO flat lighting. NO even ambient light. ALWAYS directional.
+Living characters: warm light side + cold shadow side.
+Ghost characters: cold moonlight only — no warm light touches them.
+
+OUTLINE RULES:
+All characters: thick 3-4px black outline.
+Background elements: 2-3px black outline.
+Ghost/supernatural: outline slightly thinner + slightly blurred at edges.
+Ground fog: NO outline — soft diffuse only.
+
+BACKGROUND CONSISTENCY:
+Night scenes BG: #0D1117 sky with #1A2535 clouds.
+Ground: #1A1507 dark earth or #1A1A2E dark stone.
+Peepal tree: #2A2015 dark brown-grey trunk.
+Village houses: #2A1F10 dark warm mud color.
+Fog on ground: #2A3545 low-lying blue-grey mist.
+Temple/ruins: #1F2535 dark blue-grey stone.
+
+GLOBAL NEGATIVE BLOCK (APPEND TO EVERY PROMPT)
+NO photoreal face texture, NO realistic camera grain, NO 3D materials, NO glossy cinematic lens flare, NO anime eyes, NO watercolor bleeding, NO pencil sketch lines, NO extra fingers, NO deformed hands, NO warped text, NO portrait orientation, NO square frame.
+
+---
+
+CHARACTER 01 — RAJAN (PRESENT TIMELINE, LIVING)
+Prompt:
+Rajan, Indian male age 22, lean farmer build, warm wheatish-brown skin #C17A4A, short unstyled black hair, faint stubble, tired but kind eyes, plain off-white kurta in clean white #FAFAF5, dark dhoti, worn sandals, emotional but grounded expression, body posture slightly tense, rural mud path near peepal boundary, moonlight from above #B8D4E8 and cold shadow side #1A1F2E, hard shadow edges #0D1117, thick 3-4px black outlines, cel-shaded flats, dramatic shadow zones, 16:9 landscape.
+
+Rajan Possession Variant Add-on:
+same Rajan design, eyes subtly blood red #8B0000 (only iris glow), jaw tight, neck stiff, sleep-deprived under-eye shadows, no monster transformation, psychological dread only, cold moonlight top-light only, 16:9 landscape.
+
+Rajan Climax Apology Variant Add-on:
+same Rajan design kneeling, folded hands with trembling fingers, sindoor mark in deep blood red #8B0000 on soil, mixed warm lamp edge from below #FF6A00 and cold moonlight from above, emotional guilt-release expression, 16:9 landscape.
+
+---
+
+CHARACTER 02 — MEERA (LIVING, FLASHBACK)
+Prompt:
+Meera, Indian female age 24-26, warm wheatish-brown skin #C17A4A, oval face, calm empathetic eyes, long dark hair tied simply, plain cotton saree in clean white #FAFAF5 with modest border, minimal jewelry, herb pouch in hand, healer identity, soft but resilient posture, sepia-memory mood while preserving palette discipline, directional fire/lamp or moonlight only, hard cel-shaded shadow blocks, thick 3-4px black character outline, hand-painted 2D horror style, 16:9 landscape.
+
+Meera Accusation Variant Add-on:
+same Meera design center-framed, fearful crowd ring around her, expression sorrow first then disbelief, no demonic features, torch underlight #FF6A00 plus deep cold shadows #0D1117, 16:9 landscape.
+
+---
+
+CHARACTER 03 — MEERA SPIRIT (POST-CURSE)
+Prompt:
+Meera spirit, same facial identity as living Meera, ghost skin tone #8BB8C8, saree in cold off-white #E8E8F5 with subtle torn burnt edges, floating ash particles, faint red thread motif near wrist, sorrow-heavy expression with restrained rage, eyes may shift from deep blood red #8B0000 to calm muted tone during release, cold moonlight from above #B8D4E8 only, NO warm light touch on ghost, slightly thinner blurred black outline for supernatural edges, cel-shaded flat fills with hard shadow zones, 16:9 landscape.
+
+Meera Release Variant Add-on:
+same ghost design, right hand raised in forgiveness gesture, eye glow fading, ash drift thinning, expression peaceful exhaustion not revenge, cold top light only, 16:9 landscape.
+
+---
+
+CHARACTER 04 — PANDITJI
+Prompt:
+Panditji, Indian male age 62-68, thin frame, lined face with guilt, short white beard, tired wet eyes, white dhoti-kurta in #FAFAF5 slightly dust-stained, old burnt mala in hand as guilt object, temple stone backdrop #1F2535, lamp underlight #FF6A00 from below with hard cold shadow cut #1A1F2E, thick 3-4px black outline, cel-shaded flat coloring, hand-painted horror mood, 16:9 landscape.
+
+Confession Variant Add-on:
+same Panditji design seated, shoulders collapsed, lips trembling mid-confession, mala close to chest, no heroic pose, heavy guilt tone, 16:9 landscape.
+
+---
+
+CHARACTER 05 — RAJAN KI MAA
+Prompt:
+Rajan’s mother, Indian female age 45-52, warm wheatish-brown skin #C17A4A, weathered face, concerned eyes, simple cotton saree in muted earthy tone with clean white pallu #FAFAF5, protective posture leaning toward son, village interior with low lamp glow #FF6A00 from side and cold moon-shadow fill #1A1F2E, thick black outline 3-4px, cel-shaded flats, dramatic hard shadows, 16:9 landscape.
+
+Emotional Variant Add-on:
+same design with palm on Rajan’s head, expression of fear + hope, tearline highlight minimal, directional lighting only, 16:9 landscape.
+
+---
+
+CHARACTER 06 — RAJAN KA DOST (GROOM)
+Prompt:
+Rajan’s friend (groom), Indian male age 22-25, healthy village build, warm skin #C17A4A, simple festive sherwani with clean white base #FAFAF5 and marigold accents, joyful expression in wedding courtyard, dhol and diya light scene using #FF6A00 highlights from below with cold night shadows, thick 3-4px black outlines, cel-shaded flat colors, hand-painted horror-drama style (celebration before dread), 16:9 landscape.
+
+Wedding Omen Variant Add-on:
+same groom background while diya flame bends unnaturally, foreground tension without changing character model, 16:9 landscape.
+
+---
+
+CHARACTER 07 — VILLAGERS CROWD (MOB + WITNESSES)
+Prompt:
+mixed Indian rural villagers (men, women, elders), drought-stressed clothing, warm skin #C17A4A variations, fear-driven expressions with moral conflict, crowd ratio: 20% active accusers, 60% fearful watchers, 20% silent guilt, torch-lit night with #FF6A00 underlight and #0D1117 hard shadow masses, thick 3-4px black outlines on characters, 2-3px on background houses #2A1F10, cel-shaded flat fills, 16:9 landscape.
+
+Climax Reaction Variant Add-on:
+same villagers with folded hands, tears, lowered gaze, accountability not aggression, moonlight top light #B8D4E8 with deep shadow contrast, 16:9 landscape.
+
+---
+
+CHARACTER 08 — CHILDREN (ENDING RESOLUTION)
+Prompt:
+2-3 village children, ages 6-10, warm skin #C17A4A, simple rural clothes in muted earthy tones with clean white accents #FAFAF5, playing under peepal roots in morning-release mood, no fear expressions, soft golden transition feel while keeping cel-shaded hard-edge style, background tree trunk #2A2015, low fog #2A3545 minimal, thick 3-4px outlines, 16:9 landscape.
+
+---
+
+CHARACTER 09 — PEPPAL TREE AS STORY ENTITY (NON-HUMAN MOTIF)
+Prompt:
+ancient peepal tree, trunk color #2A2015, root forms like grasping veins, subtle red thread motif tied on branch, atmospheric entity presence without face, moonlit top light #B8D4E8, hard edge shadows #0D1117, blue-grey fog #2A3545 at roots (no outline on fog), 2-3px black outline on trunk shapes, 16:9 landscape.
+
+Fire-curse Variant Add-on:
+same tree with underlit flames #FF6A00, ash swirl, branch silhouette aggressive, strict warm-vs-cold split lighting, 16:9 landscape.
+
+---
+
+SCENE-READY CHARACTER COMBO PROMPTS
+
+Combo A (Wedding to Wrong Turn):
+Rajan with friend groom in village wedding foreground, warm diya and dhol mood, then same Rajan isolated on dark fork road, continuity preserved in clothes and face identity, 16:9 landscape.
+
+Combo B (Panditji tells Mother):
+Panditji holding burnt mala while Rajan’s mother listens in temple doorway, guilt and urgency in one frame, directional lamp + moonlight contrast, 16:9 landscape.
+
+Combo C (Apology Ritual):
+Kneeling Rajan foreground with sindoor #8B0000 on soil, Meera spirit behind in #E8E8F5 and #8BB8C8 tones, villagers distant silhouettes watching, peepal trunk center, moonlight from above, 16:9 landscape.
+
+Combo D (Ending Closure):
+open peepal boundary with fresh flower at root, children playing, elder resting, no ghost visible, calm after accountability, consistent ink outlines and cel-shade style, 16:9 landscape.

@@ -1,0 +1,152 @@
+TITLE: Character Turnaround + Face Sheet Prompts (White Background)
+PURPOSE: Full-body front/back/side + face views for all characters on pure white background
+CANVAS: 16:9 landscape only
+
+GLOBAL STYLE TAG (append in every prompt exactly)
+STYLE: 2D semi-realistic digital illustration, Khooni Monday horror style, hand-painted look, thick bold black ink outlines, cel-shaded flat color fills, dramatic hard-edge shadows, NO photorealism, NO 3D render, NO anime style, NO watercolor wash, NO sketch look.
+
+GLOBAL WHITE SHEET RULES
+- Background must be pure white #FFFFFF only.
+- No props, no environment, no text labels, no watermark.
+- Character fully visible head-to-toe for body sheets.
+- Keep exact same costume, face identity, skin tone, and proportions across all views.
+- Lighting: neutral studio top light + controlled hard shadow under feet (light gray), but retain cel-shaded style.
+- Outline: character 3-4px black; ghost outline slightly thinner and soft edge.
+
+GLOBAL NEGATIVE TAG
+NO environment, NO background texture, NO cinematic fog, NO camera blur, NO cut-off limbs, NO extra fingers, NO merged limbs, NO duplicate faces, NO logos, NO text, NO portrait orientation, NO square.
+
+---
+
+CHARACTER 01 — RAJAN (AGE 22)
+A) Front full body prompt:
+Full body front view of Rajan, Indian male age 22, lean farmer physique, warm wheatish-brown skin #C17A4A, short unstyled black hair, faint stubble, neutral expression, off-white kurta #FAFAF5, dark dhoti, worn sandals, arms relaxed at sides, centered composition, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+B) Back full body prompt:
+Full body back view of Rajan, same exact body proportions and outfit continuity, kurta seam and fabric folds visible from back, sandals visible, centered on white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+C) Side full body prompt (left profile):
+Full body left side profile of Rajan, same face and outfit continuity, clear silhouette of nose/chin/hairline and kurta drape, centered on white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+D) Face sheet prompt (4 angles):
+Rajan face turnaround sheet showing head only in four views: front, left profile, right profile, 3/4 view, same identity and stubble details, neutral expression, white background #FFFFFF, evenly spaced, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+---
+
+CHARACTER 02 — MEERA (LIVING)
+A) Front full body prompt:
+Full body front view of Meera (living), Indian female age 24-26, warm wheatish-brown skin #C17A4A, calm eyes, long dark hair tied simply, clean white saree #FAFAF5 with modest border, minimal jewelry, barefoot, centered on pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+B) Back full body prompt:
+Full body back view of Meera (living), same saree drape continuity, hair knot visible from back, same proportions, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+C) Side full body prompt (left profile):
+Full body left side profile of Meera (living), clear saree silhouette and posture, same face identity continuity, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+D) Face sheet prompt (4 angles):
+Meera (living) head turnaround sheet with front, left profile, right profile, 3/4 view, empathetic eyes, no ghost traits, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+---
+
+CHARACTER 03 — MEERA SPIRIT
+A) Front full body prompt:
+Full body front view of Meera spirit, same identity as living Meera, ghost skin #8BB8C8, saree white #E8E8F5 with subtle torn burnt edges, sorrow expression, slightly thinner blurred black outline, centered on pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+B) Back full body prompt:
+Full body back view of Meera spirit, same torn saree edge continuity and silhouette, thin soft supernatural outline, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+C) Side full body prompt (left profile):
+Full body left profile of Meera spirit, same face identity and ghost styling, controlled translucent edge feel (not transparent body), white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+D) Face sheet prompt (5 angles + eye variant):
+Meera spirit face sheet with front, left profile, right profile, 3/4 view, down-tilt sorrow view; include small eye-color variant strip (blood red #8B0000 to calm muted tone), white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+---
+
+CHARACTER 04 — PANDITJI
+A) Front full body prompt:
+Full body front view of Panditji, Indian male age 62-68, thin frame, lined face, short white beard, tired eyes, white dhoti-kurta #FAFAF5 slightly worn, old burnt mala in right hand, centered on pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+B) Back full body prompt:
+Full body back view of Panditji, same outfit continuity and stooped shoulder posture, dhoti fold details visible, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+C) Side full body prompt (left profile):
+Full body left profile of Panditji, same beard profile and posture, mala hand silhouette visible, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+D) Face sheet prompt (4 angles):
+Panditji face turnaround sheet: front, left profile, right profile, 3/4 view; deep guilt lines and tired eyes, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+---
+
+CHARACTER 05 — RAJAN KI MAA
+A) Front full body prompt:
+Full body front view of Rajan’s mother, Indian female age 45-52, warm wheatish-brown skin #C17A4A, weathered face, simple cotton saree with warm white pallu #FAFAF5, protective but tired stance, centered on pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+B) Back full body prompt:
+Full body back view of Rajan’s mother, saree pleat continuity and shoulder drape visible, same body proportions, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+C) Side full body prompt (left profile):
+Full body left profile of Rajan’s mother, same identity continuity and saree silhouette, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+D) Face sheet prompt (4 angles):
+Rajan’s mother head turnaround sheet with front, left profile, right profile, 3/4 view; concern in eyes, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+---
+
+CHARACTER 06 — RAJAN KA DOST (GROOM)
+A) Front full body prompt:
+Full body front view of Rajan’s friend (groom), Indian male age 22-25, healthy build, warm skin #C17A4A, simple festive sherwani with warm white base #FAFAF5, subtle village wedding detailing, centered on pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+B) Back full body prompt:
+Full body back view of groom, same sherwani and cloth detail continuity, same proportions, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+C) Side full body prompt (left profile):
+Full body left profile of groom, same hairstyle and festive silhouette, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+D) Face sheet prompt (4 angles):
+Groom face turnaround sheet front, left profile, right profile, 3/4 view; cheerful neutral baseline expression, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+---
+
+CHARACTER 07 — VILLAGER MALE (STANDARD CROWD MODEL)
+A) Front full body prompt:
+Full body front view of standard villager male, Indian rural adult, warm skin #C17A4A, simple worn kurta and dhoti, anxious but neutral pose, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+B) Back full body prompt:
+Full body back view of villager male with same clothing continuity, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+C) Side full body prompt:
+Full body left profile villager male, same silhouette continuity, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+D) Face sheet prompt:
+Villager male head sheet front/left/right/3-4, weathered features, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+---
+
+CHARACTER 08 — VILLAGER FEMALE (STANDARD CROWD MODEL)
+A) Front full body prompt:
+Full body front view of standard villager female, Indian rural adult, warm skin #C17A4A, simple saree, restrained expression, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+B) Back full body prompt:
+Full body back view of villager female with saree drape continuity, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+C) Side full body prompt:
+Full body left profile villager female, same proportions and identity continuity, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+D) Face sheet prompt:
+Villager female head sheet front/left/right/3-4, mature rural features, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+---
+
+CHARACTER 09 — CHILD (ENDING MODEL)
+A) Front full body prompt:
+Full body front view of village child age 8, warm skin #C17A4A, simple rural outfit with warm white accents #FAFAF5, relaxed expression, pure white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+B) Back full body prompt:
+Full body back view of child with outfit continuity, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+C) Side full body prompt:
+Full body left profile of child, same proportions and silhouette, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
+
+D) Face sheet prompt:
+Child head turnaround front/left/right/3-4 with soft features, white background #FFFFFF, 16:9 landscape. STYLE + GLOBAL NEGATIVE TAG.
